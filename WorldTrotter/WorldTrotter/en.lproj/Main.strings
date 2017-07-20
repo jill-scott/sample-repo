@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "0cW-RS-IBF"; */
+"0cW-RS-IBF.text" = "degrees Celsius";
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "KlN-LC-t2d"; */
+"KlN-LC-t2d.title" = "Convert";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "RKF-4c-ejM"; */
+"RKF-4c-ejM.title" = "Map";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "SJk-Pi-jle"; */
+"SJk-Pi-jle.text" = "is really";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "V4C-ri-Len"; */
+"V4C-ri-Len.text" = "degrees Fahrenheit";
+
+/* Class = "UITextField"; placeholder = "value"; ObjectID = "ni9-9W-IoA"; */
+"ni9-9W-IoA.placeholder" = "value";
+
+/* Class = "UILabel"; text = "100"; ObjectID = "og7-pd-WcR"; */
+"og7-pd-WcR.text" = "100";
